@@ -1,4 +1,4 @@
-# Hindu-Archive-API
+# Indian News DataBase (INDB)
 
 This is a Spring based project which provides a REST API to the Hindu Archive.
 
