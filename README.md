@@ -24,3 +24,7 @@ It performs a starts with query with title and contains query for description.
 [GET]  /savearticlesforgivenday?url="hinduArchiveURLForADay"<br>
 Scrapes the given URL and fetches and stores all the articles for the given day.
 
+
+
+*** Disclaimer
+This project is solely for education and learning purpose. It is not intended for any sort of commercial use in any manner. In case of any other type usage other than learning, by any other user who has forked this repo, if issue arises from that, the Author of this repository is not responsible for the same. 
